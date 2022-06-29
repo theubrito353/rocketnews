@@ -1,0 +1,63 @@
+body{
+    background-color: #121214;
+    font-family:'Spartan','Work Sans';
+    font-weight: 400,500,700;
+    margin-left: 36px;
+    background-image: url(..//estilos/assets/read_news.jpg);
+        background-size: 717px 780px;
+        background-repeat: no-repeat;
+    background-position: right top;
+    
+       
+}
+
+.logo img{
+    max-width:389px;
+    margin-bottom: 92px;
+        margin-top: 50px;
+    }
+
+.tt1{
+ color: #04D361;
+ font-size: 24px;
+margin-bottom: 9px;
+font-weight: 700;
+}
+.tt2{ 
+    color: #E1E1E6;
+    font-size: 14px;
+        margin-bottom: 9px;
+    font-weight: 700;
+}
+.texto{
+    color: #E1E1E6;
+    font-size: 14px;
+       font-weight: 400;
+    margin-bottom: 50px;
+}
+.formulario label{
+color: #A8A8A8;
+margin-bottom: 17px;
+font-size: 14px;
+font-weight: 700;
+}
+
+.formulario input{
+ height: 40px;   
+width: 750px;
+margin-right: 0px;
+border: 0 0 0 10px;
+border-color: #04D361;
+
+}
+
+.formulario button{
+    height: 48px;
+    width: 48px;
+    background-color: #8257e5;
+    position: relative;
+    right: 5px;
+    top: 7px;
+   
+   
+}
